@@ -18,4 +18,4 @@ Week 1 Challenge - Kickstarter
   Another factor not considered is that country. Louise did not specially point out that where is she going to do the campaign. 
 ###  Other possible tables and/or graphs that we could create
 ![Outcomes US](./kickstarter-analysis/Outcomes US.png)
-![Outcomes GB](./kickstarter-analysis/resources/Outcomes GB.png)
+![Outcomes GB](./kickstarter-analysis/resources/OutcomesA_GB.png)
