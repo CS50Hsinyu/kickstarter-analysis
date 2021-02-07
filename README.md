@@ -17,3 +17,5 @@ Week 1 Challenge - Kickstarter
   Since we try to drag a conclusion based on the existing data on hand, it is necessary to use the most updated data. Since now it is 2021 and the data only included till year of  2017. The market might have a different preference during these 4 years. Our conclusion could only delivery that before 2017, the most successful campaigns were held in May, Jun, Jul, Aug, and Oct and especially in May.
   Another factor not considered is that country. Louise did not specially point out that where is she going to do the campaign. 
 ###  Other possible tables and/or graphs that we could create
+![Outcomes_GB](./resources/Outcomes_GB.png)
+![Outcomes_US](./resources/Outcomes_US.png)
