@@ -15,7 +15,8 @@ Week 1 Challenge - Kickstarter
 ![Outcomes_vs_Goals](./resources/Outcomes_vs_Goals.png)
 ### Limitations of this dataset
   Since we try to drag a conclusion based on the existing data on hand, it is necessary to use the most updated data. Since now it is 2021 and the data only included till year of  2017. The market might have a different preference during these 4 years. Our conclusion could only delivery that before 2017, the most successful campaigns were held in May, Jun, Jul, Aug, and Oct and especially in May.
-  Another factor not considered is that country. Louise did not specially point out that where is she going to do the campaign. 
+  Another factor not considered is that country. Louise did not specially point out that where is she going to do the campaign. Different conculsion could be made since the goal amount had differently successfully percentage in different country. Please see line chart below. The first chart is outcome in GB and the second chart is in US. In GB, there was no successfully case while goal amount is over $14,999. However, in US, the successfuly percertage fluctuate according to differnt gaol amount and it is more difficult to conclude that there is any trend between goal amount and outcome.
+  Finally, we should not ignore the spread of compaign data in each goal amount range. Please see the third chart below, you can see out of 1,047 compaign the most compaign set goal amount in the first three range between $1,000 to $9,999 and the successfully percertage trend shows higher than failed. And Louise's estimated goal amount falls on the range of $10,000 to $14,999 which is not the most common target and the percertage of successful is 54%.
 ###  Other possible tables and/or graphs that we could create
 ![Outcomes_GB](./resources/Outcomes_GB.png)
 ![Outcomes_US](./resources/Outcomes_US.png)
