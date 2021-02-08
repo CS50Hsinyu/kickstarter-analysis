@@ -20,3 +20,4 @@ Week 1 Challenge - Kickstarter
 ###  Other possible tables and/or graphs that we could create
 ![Outcomes_GB](./resources/Outcomes_GB.png)
 ![Outcomes_US](./resources/Outcomes_US.png)
+![Outcomes_vs_Goals_Combo](./resources/Outcomes_vs_Goals_Combo.png)
